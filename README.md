@@ -6,9 +6,9 @@ My name is Stephen and I am a SDE I for AWS SageMaker Pipelines
 
 Machine Learning, Model Deployment, IoT
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+stephenvia3@gmail.com
 
 <!---
 svia3/svia3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
