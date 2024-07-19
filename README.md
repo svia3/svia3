@@ -1,4 +1,4 @@
-- 👋 Hi, I’m am Stephen an SDE I for AWS SageMaker Pipelines. I am a recent GeorgiaTech MS Grad living in the greater Seattle area.
+- 👋 Hi, I’m am Stephen an SDE II for AWS SageMaker Pipelines. I am a recent GeorgiaTech MS Grad living in the greater Seattle area.
 
 - 👀 I’m interested in Machine Learning, Model Deployment, IoT
 
